@@ -1,0 +1,352 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<<<<<<< Updated upstream
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Client">
+    <Position X="12" Y="0.5" Width="4.5" />
+=======
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="SuperThread">
+    <Position X="12.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAQAEAAAABAAAAAAAAAAAAAAAAAAgYAAAA=</HashCode>
+      <FileName>SuperThread.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Audio">
+    <Position X="10.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAIEACAAAAAAAABAEAgAEAAAAIAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Audio.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Client">
+    <Position X="12.5" Y="0.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <NestedTypes>
+      <Struct Name="Client::callin" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Client.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="Client::Ifriend" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Client.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Struct Name="Client::info" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Client.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Enum Name="Client::Status" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Client.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>A0WABsARIG1EgE2gFCFKFHgBCEBAhEQMAAJooEAAAoU=</HashCode>
+      <FileName>Client.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Parser">
+<<<<<<< Updated upstream
+    <Position X="8.25" Y="0.5" Width="1.5" />
+=======
+    <Position X="12.5" Y="1.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <NestedTypes>
+      <Enum Name="Parser::eRequestId" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Parser.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+      <Enum Name="Parser::eError" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>Parser.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AECiQAEEACBAgQAEAAFAABgIAAQYAACAQAACLgAAAgA=</HashCode>
+      <FileName>Parser.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SocketClient">
+<<<<<<< Updated upstream
+    <Position X="10" Y="0.5" Width="1.5" />
+=======
+    <Position X="10.75" Y="2.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAABAACAAAAAAAEAABAAAAA=</HashCode>
+      <FileName>SocketClient.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LogGUI">
+<<<<<<< Updated upstream
+    <Position X="0.5" Y="5.5" Width="1.5" />
+=======
+    <Position X="9" Y="1.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>gAQAAAQAAAAAEAAAAAEAAAAAIAAAABQAAgIABAAACAE=</HashCode>
+      <FileName>LogGUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AccepteCallGUI">
+<<<<<<< Updated upstream
+    <Position X="4.5" Y="2" Width="1.5" />
+=======
+    <Position X="9" Y="0.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAgIAEAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>AccepteCallGUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Register">
+<<<<<<< Updated upstream
+    <Position X="0.5" Y="10.5" Width="1.5" />
+=======
+    <Position X="14.25" Y="1.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAIAkAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Register.h</FileName>
+    </TypeIdentifier>
+  </Class>
+<<<<<<< Updated upstream
+  <Class Name="HomeGUI">
+    <Position X="4.25" Y="5.5" Width="1.5" />
+=======
+  <Class Name="MyUDP">
+    <Position X="10.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgAAABAAAAAAAAAAAAoAAEACAAAAgA=</HashCode>
+      <FileName>myudp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HomeGUI">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAgEBEAAAAAEAAAAAAACAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>HomeGUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Settings">
+<<<<<<< Updated upstream
+    <Position X="0.5" Y="1.25" Width="1.5" />
+=======
+    <Position X="9" Y="2.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAkAAAAAAAAAAAIAAAAAgIAAAAAEAAAiA=</HashCode>
+      <FileName>Settings.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_AccepteCallGUI">
+    <Position X="6.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAABAAAAAQAAAAAAQAIAAAAAEAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_AccepteCallGUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_HomeGUI">
+<<<<<<< Updated upstream
+    <Position X="6.5" Y="3.75" Width="1.5" />
+=======
+    <Position X="3.5" Y="3.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>4AAAAAABAAAAEhEIDAEAAAAAAASAIAAAAAAAAEAQRAA=</HashCode>
+      <FileName>GeneratedFiles\ui_HomeGUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_LogGUIClass">
+<<<<<<< Updated upstream
+    <Position X="2.5" Y="4.75" Width="1.5" />
+=======
+    <Position X="0.5" Y="3.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAEAQBAAAAgCAIAgACQAIAAAgABAAEQAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_LogGUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Register">
+<<<<<<< Updated upstream
+    <Position X="2.5" Y="9.25" Width="1.5" />
+=======
+    <Position X="3.5" Y="0.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAQAgBgCAAAEAAAAAQAIAAAIACAAEAABAA=</HashCode>
+      <FileName>GeneratedFiles\ui_Register.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ui_Settings">
+<<<<<<< Updated upstream
+    <Position X="2.5" Y="0.5" Width="1.5" />
+=======
+    <Position X="0.5" Y="0.5" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAABAAAgAAAgAQQAIAAAAAAAAAgABQA=</HashCode>
+      <FileName>GeneratedFiles\ui_Settings.h</FileName>
+    </TypeIdentifier>
+  </Class>
+<<<<<<< Updated upstream
+  <Class Name="Ui::AccepteCallGUI" Collapsed="true">
+    <Position X="4.5" Y="1.25" Width="1.5" />
+=======
+  <Class Name="Ui::AccepteCallGUI">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_AccepteCallGUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+<<<<<<< Updated upstream
+  <Class Name="Ui::HomeGUI" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+=======
+  <Class Name="Ui::HomeGUI">
+    <Position X="3.5" Y="4.75" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_HomeGUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+<<<<<<< Updated upstream
+  <Class Name="Ui::LogGUIClass" Collapsed="true">
+=======
+  <Class Name="Ui::LogGUIClass">
+>>>>>>> Stashed changes
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_LogGUI.h</FileName>
+    </TypeIdentifier>
+  </Class>
+<<<<<<< Updated upstream
+  <Class Name="Ui::Register" Collapsed="true">
+    <Position X="0.5" Y="9.75" Width="1.5" />
+=======
+  <Class Name="Ui::Register">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_Register.h</FileName>
+    </TypeIdentifier>
+  </Class>
+<<<<<<< Updated upstream
+  <Class Name="Ui::Settings" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+=======
+  <Class Name="Ui::Settings">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\ui_Settings.h</FileName>
+    </TypeIdentifier>
+  </Class>
+<<<<<<< Updated upstream
+  <Struct Name="qt_meta_stringdata_AccepteCallGUI_t">
+    <Position X="8.25" Y="8" Width="1.5" />
+=======
+  <Struct Name="s_packed_voice">
+    <Position X="1.5" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audio.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_AccepteCallGUI_t">
+    <Position X="10.75" Y="3.75" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_AccepteCallGUI.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_HomeGUI_t">
+<<<<<<< Updated upstream
+    <Position X="10" Y="8" Width="1.5" />
+=======
+    <Position X="12.5" Y="3.75" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_HomeGUI.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_LogGUI_t">
+<<<<<<< Updated upstream
+    <Position X="10" Y="4.5" Width="1.5" />
+=======
+    <Position X="14.25" Y="3.75" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_LogGUI.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+<<<<<<< Updated upstream
+  <Struct Name="qt_meta_stringdata_Register_t">
+    <Position X="10" Y="6.25" Width="1.5" />
+=======
+  <Struct Name="qt_meta_stringdata_MyUDP_t">
+    <Position X="9" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_myudp.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_Register_t">
+    <Position X="10.75" Y="4.75" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_Register.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="qt_meta_stringdata_Settings_t">
+<<<<<<< Updated upstream
+    <Position X="8.25" Y="9.5" Width="1.5" />
+=======
+    <Position X="12.5" Y="4.75" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>GeneratedFiles\Debug\moc_Settings.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="`anonymous-namespace'::initializer">
+<<<<<<< Updated upstream
+    <Position X="10" Y="2.75" Width="1.5" />
+=======
+    <Position X="9" Y="3.75" Width="1.5" />
+>>>>>>> Stashed changes
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAEA=</HashCode>
+      <FileName>GeneratedFiles\qrc_LogGUI.cpp</FileName>
+    </TypeIdentifier>
+  </Struct>
+<<<<<<< Updated upstream
+=======
+  <Typedef Name="pack_voice" Collapsed="true">
+    <Position X="1.5" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Audio.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+>>>>>>> Stashed changes
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

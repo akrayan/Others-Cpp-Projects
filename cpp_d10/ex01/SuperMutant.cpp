@@ -1,0 +1,26 @@
+//
+// SuperMutant.cpp for Aweapon.cpp in /home/rayan/Piscine_CPP/cpp_d10/ex01
+//
+// Made by Rayan
+// Login   <raihane.akkache@epitech.net>
+//
+// Started on  Fri Jan 13 05:48:58 2017 Rayan
+// Last update Fri Jan 13 07:22:48 2017 Rayan
+//
+
+#include "SuperMutant.hh"
+
+SuperMutant::SuperMutant() : AEnemy(170, "Super Mutant")
+{
+  std::cout << "Gaaah. Me want smash heads !" << std::endl;
+}
+
+SuperMutant::~SuperMutant()
+{
+  std::cout << "Aaargh..." << std::endl;
+}
+
+void	SuperMutant::takeDamage(int d)
+{
+  AEnemy::takeDamage(d - 3);
+}

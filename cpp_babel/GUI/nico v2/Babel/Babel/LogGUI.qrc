@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="LogGUI">
+    <file>logo.png</file>
+    <file>power-button-outline.png</file>
+    <file>end-call.png</file>
+  </qresource>
+</RCC>

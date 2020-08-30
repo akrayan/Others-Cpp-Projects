@@ -1,0 +1,3 @@
+/Users/laurent/Epitech/cpp_babel/Babel_server/Babel_server/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/laurent/Epitech/cpp_babel/Babel_server/Babel_server/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/laurent/Epitech/cpp_babel/Babel_server/Babel_server/cmake-build-debug/CMakeFiles/Babel_server.dir
